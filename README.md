@@ -1,16 +1,14 @@
 ### Hi there 👋
+I'm Luca! I'm a vocational training student at SAP studying computer science. I love great design and managing projects. That's why I'm currently trying to master web development. Here are some facts about me: 
 
-<!--
-**cuvar/cuvar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on: my personal [Website](https://github.com/cuvar/cuvar.github.io)
+- 🌱 I’m currently learning: [React](https://github.com/facebook/react) and [NodeJs](https://github.com/nodejs) 
 
-Here are some ideas to get you started:
+And here some stats: 
+<div>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cuvar&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="cuvar's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=cuvar&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### More infos coming soon!
