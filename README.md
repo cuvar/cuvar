@@ -6,20 +6,20 @@
 <h3 align="left">Key Facts</h3>
 
 #### Tech
-💫 Started programming in 2015
-🔭 I’m currently working on: my personal [Website](https://github.com/cuvar/cuvar.github.io)
-⭐ Favorite tech: React, TypeScript, NodeJS,
-🌟 Right now I'm getting into: [React](https://github.com/facebook/react) and [NodeJs](https://github.com/nodejs)
-✨ Want to get into: GCP, Kubernetes, Typescript, Golang
+💫 Started programming in 2015  
+🔭 I’m currently working on: my personal [Website](https://github.com/cuvar/cuvar.github.io)  
+⭐ Favorite tech: React, TypeScript, NodeJS  
+🌟 Right now I'm getting into: [React](https://github.com/facebook/react) and [NodeJs](https://github.com/nodejs)  
+✨ Want to get into: GCP, Kubernetes, Typescript, Golang  
 
 #### Trivia
-🍻 You can speak to me in English or German
-🌆 Want to visit: Sweden, Iceland
-⚡ Fun fact: Cotton candy was invented by a dentist.
+🍻 You can speak to me in English or German  
+🌆 Want to visit: Sweden, Iceland  
+⚡ Fun fact: Cotton candy was invented by a dentist.  
 
 #### Stats
 <div>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cuvar&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="cuvar's Github Stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=cuvar&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cuvar&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="cuvar's Github Stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cuvar&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40">
 </div>
 
