@@ -8,9 +8,9 @@
 #### Tech
 💫 Started programming in 2015  
 🔭 I’m currently working on: my personal [Website](https://github.com/cuvar/cuvar.github.io)  
-⭐ Favorite tech: React, TypeScript, NodeJS  
-🌟 Right now I'm getting into: [React](https://github.com/facebook/react) and [NodeJs](https://github.com/nodejs)  
-✨ Want to get into: GCP, Kubernetes, Typescript, Golang  
+⭐ Favorite tech: Nextjs, TypeScript, Deno  
+🌟 Right now I'm getting into: [Rust](https://www.rust-lang.org/) and [Svelte](https://github.com/sveltejs/svelte)  
+✨ Want to get into: GCP, Docker, Spring, Blockchain
 
 #### Trivia
 🍻 You can speak to me in English or German  
