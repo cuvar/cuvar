@@ -7,10 +7,10 @@
 
 #### Tech
 💫 Started programming in 2015  
-🔭 I’m currently working on: a widget based [dashboard](https://github.com/cuvar/panal)  
+🔭 I’m currently working on: a widget based [dashboard](https://github.com/cuvar/panal) and my [homepage](https://github.com/cuvar/homepage)    
 ⭐ Favorite tech: Nextjs, TypeScript, Deno  
-🌟 Right now I'm getting into: [Nuxt](https://nuxtjs.org/) and [Vue](https://v3.vuejs.org/)  
-✨ Want to get into: GCP, Docker, Spring, Blockchain
+🌟 Right now I'm getting into: [Svelte](https://svelte.dev/) and [ThreeJS](https://threejs.org/)  
+✨ Want to get into: Docker, Rust, Swift, WebGL
 
 #### Trivia
 🍻 You can speak to me in English or German  
