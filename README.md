@@ -1,6 +1,6 @@
 <h1 align="center">Luca Müller</h1>
 <h3 align="left">Hi there 👋</h3>
-<p align="left">I'm Luca! I'm a vocational training student at SAP studying computer science. I love great design and managing projects 😁</p>
+<p align="left">I'm Luca! I'm a vocational training student at SAP studying computer science. I love great design and developing web apps 😁</p>
 
 ---
 <h3 align="left">Key Facts</h3>
