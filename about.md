@@ -7,7 +7,7 @@ Vocational student at SAP in the field of computer science
 - [TCA](https://github.com/tca-app): a webapp for tracking COVID-19 rapid tests (in productive use for 2 years) developed using UI5 and PHP
 
 ## Tech
-### Technologies I'm great at (>3 years experience)
+### Technologies I'm great at (>2 years experience)
 - React
 - HTML
 - CSS
