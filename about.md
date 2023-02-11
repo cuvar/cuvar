@@ -16,8 +16,8 @@ Vocational student at SAP in the field of computer science
 - Node.js
 - Deno
 - Typescript
-- Next.js: [se-pixs/frontend](https://github.com/se-pixs/frontend), [cuvar/panal](https://github.com/cuvar/panal)
-- Java [cuvar/Color](https://github.com/cuvar/Color), [cuvar/Pong](https://github.com/cuvar/Pong)
+- Next.js: [se-pixs/frontend](https://github.com/se-pixs/frontend), [cuvar/panal](https://github.com/cuvar/panal), [cuvar/vocab](https://github.com/cuvar/vocab)
+- Java: [cuvar/Color](https://github.com/cuvar/Color), [cuvar/Pong](https://github.com/cuvar/Pong)
 - PHP
 - Svelte: [cuvar/days-since-js-framework](https://github.com/cuvar/days-since-js-framework)
 - UI5
