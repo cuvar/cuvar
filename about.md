@@ -27,6 +27,6 @@ Vocational student at SAP in the field of computer science
 - Go
 
 ## Contact
-- Email: info@cuvar.dev
+- Email: luca@cuvar.dev
 - Website: [cuvar.dev](https://cuvar.dev)
 - GitHub: [cuvar](https://github.com/cuvar)
