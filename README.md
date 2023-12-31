@@ -1,6 +1,6 @@
 <h1 align="center">Luca Müller</h1>
 <h3 align="left">Hi there 👋</h3>
-<p align="left">I'm Luca! I'm a vocational training student at SAP studying computer science. I love great design and developing web apps 😁. I also have a <a href="https://blog.cuvar.dev/">blog</a>!</p>
+<p align="left">I'm Luca! I'm a developer at SAP working on UI5. I love great design and developing web apps 😁</p>
 
 ---
 <h3 align="left">Key Facts</h3>
@@ -8,7 +8,7 @@
 #### Tech
 💫 Started programming in 2015  
 🔭 I’m currently working on: a widget based [dashboard](https://github.com/cuvar/panal)  
-⭐ Favorite tech: Next.js, TypeScript, Deno, Svelte
+⭐ Favorite tech: Next.js, TypeScript, Deno, Svelte, Go and Kotlin
 
 #### Professional
 More information on my professional work can be found [here](https://github.com/cuvar/cuvar/blob/main/about.md) or on my [résumé](https://resumee.cuvar.dev/).
@@ -16,8 +16,8 @@ More information on my professional work can be found [here](https://github.com/
 #### Trivia
 🍻 You can speak to me in English or German  
 🌆 Want to visit: Sweden, Iceland  
-🌈 Favorite color: definitively purple!  
-⚡ Fun fact: Cotton candy was invented by a dentist.  
+🌈 Favorite color: that's #3F0088 for sure  
+⚡ Fun fact: Cotton candy was invented by a dentist  
 
 #### Stats
 <div>
