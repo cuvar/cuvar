@@ -1,6 +1,7 @@
 <h1 align="center">Luca Müller</h1>
 <h3 align="left">Hi there 👋</h3>
-<p align="left">I'm Luca! I'm a developer at SAP working on UI5. I love great design and developing web apps 😁</p>
+<p align="left">I'm Luca! I'm an aspiring fullstack software engineer with a passion for the web and a love for developing user-facing applications. I am enthusiastic about learning and exploring new technologies and fields, with a big interest in software architecture 😁. I'm currently contributing to the UI5 framework at SAP.
+</p>
 
 ---
 <h3 align="left">Key Facts</h3>
@@ -17,7 +18,7 @@ More information on my professional work can be found [here](https://github.com/
 🍻 You can speak to me in English or German  
 🌆 Want to visit: Sweden, Iceland  
 🌈 Favorite color: that's #3F0088 for sure  
-⚡ Fun fact: Cotton candy was invented by a dentist  
+⚡ Fun fact: Cotton candy was invented by a dentist (more or less, at least he helped build the machine)  
 
 #### Stats
 <div>
