@@ -12,7 +12,7 @@
 ⭐ Favorite tech: Next.js, TypeScript, Deno, Svelte, Go and Kotlin
 
 #### Professional
-More information on my professional work can be found [here](https://github.com/cuvar/cuvar/blob/main/about.md) or on my [résumé](https://resumee.cuvar.dev/).
+More information on my professional work can be found [here](https://github.com/cuvar/cuvar/blob/main/about.md) or on my [cv](https://cv.cuvar.dev/).
 
 #### Trivia
 🍻 You can speak to me in English or German  
