@@ -1,6 +1,6 @@
 <h1 align="center">Luca Müller</h1>
 <h3 align="left">Hi there 👋</h3>
-<p align="left">I'm Luca! I'm an aspiring fullstack software engineer with a passion for the web and a love for developing user-facing applications. I am enthusiastic about learning and exploring new technologies and fields, with a big interest in software architecture 😁. I'm currently contributing to the UI5 framework at SAP.
+<p align="left">I'm Luca! I'm an aspiring fullstack software engineer with a passion for the web and a love for developing user-facing applications. I am enthusiastic about learning and exploring new technologies and fields, with a big interest in software architecture.
 </p>
 
 [my cv](https://cv.cuvar.dev/)
